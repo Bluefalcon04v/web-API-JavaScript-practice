@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Sam",
+        "occupation": "Developer",
+        "city": "San Francisco",
+        "employee_number": 20123
+    },
+    {
+        "name": "Maya",
+        "occupation": "UI/UX",
+        "city": "New York",
+        "employee_number": 22311
+    },
+    {
+        "name": "Bruce",
+        "occupation": "IT",
+        "city": "Mexico",
+        "employee_number": 22123
+    }
+]
