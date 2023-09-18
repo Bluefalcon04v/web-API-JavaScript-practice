@@ -1,0 +1,27 @@
+[
+    {
+        "firstName": "Sam",
+        "occupation": "UI/UX",
+        "city": "Torronto"
+    },
+    {
+        "firstName": "Rahul",
+        "occupation": "Cloud Artitect",
+        "city": "Mumbai"
+    },
+    {
+        "firstName": "Arren",
+        "occupation": "Web Developer",
+        "city": "Tokio"
+    },
+    {
+        "firstName": "Bruce",
+        "occupation": "Cyber Network",
+        "city": "Mexico City"
+    },
+    {
+        "firstName": "Alixe",
+        "occupation": "Graphic Designer",
+        "city": "New York"
+    }
+]
